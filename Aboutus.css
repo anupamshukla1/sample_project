@@ -1,0 +1,143 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    
+}
+
+
+.bck {
+    background: url('../images/vision.webp');
+    position: relative;
+    height: 500px;
+}
+
+.lyer {
+    background-color: rgba(224, 221, 125, 0.7);
+    position: absolute;
+    padding: 3rem 0rem;
+    padding: 8rem;
+    right: 0px;
+    top: 120px;
+    
+}
+
+
+.hewdt{
+    height: 500px;
+}
+
+
+.carousel-inner{
+    overflow:visible !important
+}
+
+.carousel-caption{
+
+    padding-bottom: -6.25rem;
+}
+.Founder{
+    background-color: #f26524;
+    padding-top: 4rem;
+    height: 500px;
+}
+
+.Founder-details{
+
+    /* margin-left: 117px; */
+    
+    /* display: flex; */
+    /* position: relative; */
+}
+
+.Founder-title{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    scroll-behavior: smooth;
+    /* transform: rotate(270deg);*/
+    /* top: 20px; 
+    left: 40px; */
+    
+}
+
+.Founder-title h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 54px;
+    font-weight: 600;
+    color: #ffffffad;
+    text-transform: uppercase;
+    /* text-shadow: 0px 3px 6px #0000008f; */
+    /* position: relative; */
+    letter-spacing: .8rem;
+    /* margin-bottom: 0px; */
+    line-height: 0px;
+    /* position: absolute; */
+    /* left: 25px; */
+    /* bottom: 20rem; */
+    transform: rotate(270deg);
+    margin-left: 65px;
+    margin-bottom: 0px;
+    margin-top: 370px;
+}
+
+.Founder-body{
+
+    /* left: 100px;
+    top: 12px; */
+    position: relative;
+    left: 113px;
+    top: -400px;
+    /* margin-left: 12%; */
+    /* vertical-align: middle;
+    border-style: none;
+    
+    
+    
+    margin-top: 100px;
+    margin-left: 250px; */
+}
+
+.Founder-body image{
+    width: 10%;
+    
+}
+
+.Founder-body p{
+    margin-top: 0;
+    /* margin-bottom: 1rem; */
+    text-align: justify;
+    color: aliceblue;
+    /* text-align: justify;*/
+    word-break: break-all;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    max-width: 55ch;
+    
+
+    /* margin-right: 505px;  */
+    
+}
+.Founder-image img{
+    max-width: 100%;
+    height: auto;
+    height: 420px;
+}
+.Founder h6{
+    color: #fff;
+    font-weight: bold;text-align: right;
+    
+
+}
